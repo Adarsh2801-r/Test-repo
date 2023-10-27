@@ -11,5 +11,6 @@ b1 commit 2
 b1 commit 3
 
 b2 commit 1
+b2 commit 2
 
 b1 commit 4
